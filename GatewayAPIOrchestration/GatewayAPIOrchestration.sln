@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayAPIOrchestration", "GatewayAPIOrchestration\GatewayAPIOrchestration.csproj", "{F3CEF49E-0C00-4254-A00B-F33CD91F3C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CEF49E-0C00-4254-A00B-F33CD91F3C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CEF49E-0C00-4254-A00B-F33CD91F3C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CEF49E-0C00-4254-A00B-F33CD91F3C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CEF49E-0C00-4254-A00B-F33CD91F3C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A825E1-A6EE-4069-AD6F-52E4E5CBFD91}
+	EndGlobalSection
+EndGlobal
