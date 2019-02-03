@@ -3,17 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
+using System.Net.Http;
 
 namespace GatewayAPIOrchestration.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+
+        static HttpClient client = new HttpClient();
+
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public Task<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var response = CallSomeMicroserviceAsync();
+            return response;
         }
 
         // GET api/values/5
@@ -39,6 +45,13 @@ namespace GatewayAPIOrchestration.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+        }
+
+        async Task<IEnumerable<string>> CallSomeMicroserviceAsync()
+        {
+            HttpResponseMessage httpResponse = await client.GetAsync("http://localhost:56855/api/values");
+            List<string> result = await httpResponse.Content.ReadAsJsonAsync<List<string>>();
+            return result;
         }
     }
 }
