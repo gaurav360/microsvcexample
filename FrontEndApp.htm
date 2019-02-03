@@ -10,7 +10,7 @@
 					 alert(this.responseText);
 				 }
 			};
-			xhttp.open("POST", "http://localhost:58075/api/values", true);
+			xhttp.open("GET", "http://localhost:58075/api/values", true);
 			xhttp.setRequestHeader("Content-type", "application/json");
 			xhttp.send();
 		}
