@@ -1,0 +1,11 @@
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\bin\Debug\netcoreapp1.1\SampleAPIService.deps.json
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\bin\Debug\netcoreapp1.1\SampleAPIService.runtimeconfig.json
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\bin\Debug\netcoreapp1.1\SampleAPIService.runtimeconfig.dev.json
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\bin\Debug\netcoreapp1.1\SampleAPIService.dll
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\bin\Debug\netcoreapp1.1\SampleAPIService.pdb
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\obj\Debug\netcoreapp1.1\SampleAPIService.csprojResolveAssemblyReference.cache
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\obj\Debug\netcoreapp1.1\SampleAPIService.csproj.CoreCompileInputs.cache
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\obj\Debug\netcoreapp1.1\SampleAPIService.AssemblyInfoInputs.cache
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\obj\Debug\netcoreapp1.1\SampleAPIService.AssemblyInfo.cs
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\obj\Debug\netcoreapp1.1\SampleAPIService.dll
+D:\MVCSampleApp\micro\SampleAPIService\SampleAPIService\obj\Debug\netcoreapp1.1\SampleAPIService.pdb

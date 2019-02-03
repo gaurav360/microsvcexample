@@ -49,7 +49,7 @@ namespace GatewayAPIOrchestration.Controllers
 
         async Task<IEnumerable<string>> CallSomeMicroserviceAsync()
         {
-            HttpResponseMessage httpResponse = await client.GetAsync("http://localhost:56855/api/values");
+            HttpResponseMessage httpResponse = await client.GetAsync("http://localhost:58770/api/values");
             List<string> result = await httpResponse.Content.ReadAsJsonAsync<List<string>>();
             return result;
         }
