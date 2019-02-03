@@ -1,9 +1,7 @@
 <html>
 <head>
-<script type="text/javascript" language="javascript">
-									
-	function UserAction() {
-			
+<script type="text/javascript" language="javascript">									
+	function UserAction() {			
 			var xhttp = new XMLHttpRequest();
 			xhttp.onreadystatechange = function() {
 				 if (this.readyState == 4 && this.status == 200) {
@@ -14,13 +12,10 @@
 			xhttp.setRequestHeader("Content-type", "application/json");
 			xhttp.send();
 		}
-		
-	
-		
 	</script>
 </head>
 <body>	
 	<button type="submit" onclick="UserAction()">UserAction</button>
-	<!--this is sample chnage -->
+	<!--this is sample chnage --> 
 </body>
 </html>
