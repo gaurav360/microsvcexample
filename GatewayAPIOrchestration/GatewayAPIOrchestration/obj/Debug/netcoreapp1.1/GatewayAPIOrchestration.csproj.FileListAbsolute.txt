@@ -1,0 +1,11 @@
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\obj\Debug\netcoreapp1.1\GatewayAPIOrchestration.csprojResolveAssemblyReference.cache
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\obj\Debug\netcoreapp1.1\GatewayAPIOrchestration.csproj.CoreCompileInputs.cache
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\obj\Debug\netcoreapp1.1\GatewayAPIOrchestration.AssemblyInfoInputs.cache
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\obj\Debug\netcoreapp1.1\GatewayAPIOrchestration.AssemblyInfo.cs
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\bin\Debug\netcoreapp1.1\GatewayAPIOrchestration.deps.json
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\bin\Debug\netcoreapp1.1\GatewayAPIOrchestration.runtimeconfig.json
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\bin\Debug\netcoreapp1.1\GatewayAPIOrchestration.runtimeconfig.dev.json
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\bin\Debug\netcoreapp1.1\GatewayAPIOrchestration.dll
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\bin\Debug\netcoreapp1.1\GatewayAPIOrchestration.pdb
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\obj\Debug\netcoreapp1.1\GatewayAPIOrchestration.dll
+D:\MVCSampleApp\micro\GatewayAPIOrchestration\GatewayAPIOrchestration\obj\Debug\netcoreapp1.1\GatewayAPIOrchestration.pdb
